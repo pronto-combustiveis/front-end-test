@@ -2,6 +2,13 @@
 
 **Projeto desenvolvido para o teste técnico da empresa Pronto Combustíveis.**
 
+<p align="center">
+  <img  height="300" src="https://github.com/felipepasq/front-end-test/blob/felipepasqua/public/homePontoComic.png?raw=true">
+</p>
+<p align="center">
+  <img  height="300" src="https://github.com/felipepasq/front-end-test/blob/felipepasqua/public/paymentPontoComic.png?raw=true">
+</p>
+
 ## Sobre
 
 A aplicação consiste na criação de uma loja de quadrinhos usando a API disponibilizada pela Marvel.
