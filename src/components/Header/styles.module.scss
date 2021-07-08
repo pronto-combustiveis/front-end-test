@@ -1,0 +1,55 @@
+.headerContainer{
+    display: flex;
+
+.logoContainer{
+    height: 6.5rem;
+    display: flex;
+    align-items: center;
+
+
+    padding: 0 0% 0 8%;
+}
+.cartContainer{
+       
+    float: right;
+    width: 40%;
+    
+   
+    
+    
+    .cartButton{
+        margin-top: 1.5rem;
+        height: 50px;
+        background-color: #072942;
+        float: right;
+        border: 0;
+      
+    }
+
+    .car:hover{
+        cursor: pointer;
+    }
+
+}
+
+p{
+    font-family: 'Staatliches', cursive;
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    padding:  1rem 0 0 2rem;
+    border-left: 1px solid #041C2E;
+    color: #041C2E;
+}
+
+img{
+    height: 5rem;
+    width: auto;
+    padding-bottom: 0.5rem;
+}
+}
+
+   
+   
+    
+

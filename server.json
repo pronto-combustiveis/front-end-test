@@ -1,0 +1,20 @@
+{
+    "cupoms": [
+        {
+            "id": 0,
+            "name": "STANLEE"
+        },
+        {
+            "id": 1,
+            "name": "SPIDERMAN"
+        },
+        {
+            "id": 2,
+            "name": "THOR"
+        },
+        {
+            "id": 3,
+            "name": "AVENGER"
+        }
+    ]
+}

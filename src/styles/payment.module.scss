@@ -1,0 +1,83 @@
+.paymentPage{
+    color: #041C2E;
+    font-family: 'Staatliches', cursive;
+    font-weight: 400;
+    text-align: center;
+    justify-content: center;
+    
+    input{
+        height: 40px;
+    }
+    h1{
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+    }
+
+    p{
+        color: #041C2E;
+        margin-bottom: 2rem;
+    }
+
+    ul{
+        list-style-type: none;
+    }
+
+    .tableCart{
+
+    display: flex;
+
+   
+    .comicImage{
+        height: auto;
+        width: 80px;
+       
+        border:1px solid black;
+        
+    }
+    .quant{
+        
+       margin-top: 1.5rem;
+        font-size: 2rem;
+    }
+    .price{
+        font-size: 2rem;
+        margin-top: 1.5rem;
+        margin-bottom: 0;
+    }
+    .totalPrice{
+        font-size: 2rem;
+        margin-top: 1.5rem;
+        margin-bottom: 0;
+       
+    
+    }
+
+    }
+
+
+
+    .payContainer{
+        display: flex;
+        margin-top: 5rem;
+        text-align: center;
+        
+        .cupomButton{
+            background-color: #041C2E;
+            
+        }
+        .finalPaymentContainer{
+           display: flex;
+           margin-left: 2rem;
+        }
+    }
+
+
+
+    p+p{
+        margin-left: 7rem;
+    }
+ 
+    
+
+
+}
